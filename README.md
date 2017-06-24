@@ -1,3 +1,3 @@
-CPP PROJECTS
+Song Library using linked lists.
 
-This repo is for my C++ projects. The initial projects were done for PCC courses, CS161 and CS162.
+This repo is for PCC CS162 final project - build a song library using linked lists.
